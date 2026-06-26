@@ -95,3 +95,10 @@ During this project I practiced:
 - debugging shell scripts
 - creating a simple GUI with Tkinter
 - automating network testing
+
+## Source code
+
+- Bash logger: `bash/connect_logger.sh`
+- Launcher: `bash/connect_logger_launcher.sh`
+- Python GUI: `python/gui_logger.py`
+- Log example: `logs/connect_log.txt`
