@@ -1,0 +1,3 @@
+
+===== PYTHON GUI 2026-06-16 16:50:11 2026-06-16-WSL-TMP-PID-FINAL-v4 =====
+START exception: Не удалось определить диск Windows для пути: /home/qwggh/iperf_logger/connect_logger_launcher.sh
